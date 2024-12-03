@@ -1,5 +1,5 @@
-#  Official tip-training
-Notebooks to get you started with the Technology Intelligence Platform, including Patstat and EP fulltext
+#  Notebooks for the Introduction to TIP
+This repository contains the notebooks for the [Introduction to TIP course].
 
 
 
