@@ -1,0 +1,2 @@
+# PATSTAT in Depth
+This folder contains a series of notebooks covering all the tables and fields of PATSTAT Global and PATSTAT EP Register. These notebooks are not intended to replace the official PATSTAT Documentation which can be found [here](https://www.epo.org/en/searching-for-patents/business/patstat). Each notebook covers one table in the database schema and all the fields in that table are shown with real queries. The material in this folder is intended to complement the [Introduction to TIP course](https://e-courses.epo.org/enrol/index.php?id=416). 
