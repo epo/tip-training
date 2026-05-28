@@ -10,10 +10,10 @@ Below is the mapping of notebooks that were relocated within this repository.
 
 | Old location | New location |
 |---|---|
-| `EP%20Fulltext/epFulltext_1.ipynb` | [`EP full-text data/epFulltext_1.ipynb`](EP%20full-text%20data/epFulltext_1.ipynb) |
-| `EP%20Fulltext/epFulltext_2.ipynb` | [`EP full-text data/epFulltext_2.ipynb`](EP%20full-text%20data/epFulltext_2.ipynb) |
-| `EP%20Fulltext/epFulltext_3.ipynb` | [`EP full-text data/epFulltext_3.ipynb`](EP%20full-text%20data/epFulltext_3.ipynb) |
-| `EP%20Fulltext/epFulltext_4.ipynb` | [`EP full-text data/epFulltext_4.ipynb`](EP%20full-text%20data/epFulltext_4.ipynb) |
+| `EP Fulltext/epFulltext_1.ipynb` | [`EP full-text data/epFulltext_1.ipynb`](EP%20full-text%20data/epFulltext_1.ipynb) |
+| `EP Fulltext/epFulltext_2.ipynb` | [`EP full-text data/epFulltext_2.ipynb`](EP%20full-text%20data/epFulltext_2.ipynb) |
+| `EP Fulltext/epFulltext_3.ipynb` | [`EP full-text data/epFulltext_3.ipynb`](EP%20full-text%20data/epFulltext_3.ipynb) |
+| `EP Fulltext/epFulltext_4.ipynb` | [`EP full-text data/epFulltext_4.ipynb`](EP%20full-text%20data/epFulltext_4.ipynb) |
 
 ### PATSTAT library
 
@@ -24,6 +24,3 @@ Below is the mapping of notebooks that were relocated within this repository.
 | `Patstat/Patstat_3.ipynb` | [`PATSTAT/e-learning course materials/3 - PATSTAT - persons.ipynb`](PATSTAT/e-learning%20course%20materials/3%20-%20PATSTAT%20-%20persons.ipynb) |
 | `Patstat/Patstat_4.ipynb` | [`PATSTAT/e-learning course materials/ 4 - PATSTAT - subqueries.ipynb`](PATSTAT/e-learning%20course%20materials/%204%20-%20PATSTAT%20-%20subqueries.ipynb) |
 | `Patstat/Exercises` | [`PATSTAT/e-learning course materials/Exercises/`](PATSTAT/e-learning%20course%20materials/Exercises/) (4 notebooks) |
-
-
-
